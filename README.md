@@ -1,6 +1,6 @@
 ## Natural Acoustic Diagnostics & Alerts (NADA)
 
-Natural Acoustic Diagnostics & Alerts (NADA) is an ambient ecology monitoring platform that transforms everyday devices—smartphones, tablets, or dedicated edge recorders—into powerful bioacoustic sensors. Leveraging state-of-the-art AI models (NatureLM-audio, AVES) and advanced signal processing, NADA provides real-time insights into amphibian activity to infer water quality and ecosystem health.
+Natural Acoustic Diagnostics & Alerts (NADA) is an ambient ecology monitoring platform that transforms everyday devices—smartphones, tablets, or dedicated edge recorders—into powerful bioacoustic sensors. Leveraging state-of-the-art AI models (NatureLM-audio, AVES) and advanced signal processing, NADA provides real-time insights into amphibian calls to infer water quality and ecosystem health.
 
 ---
 
