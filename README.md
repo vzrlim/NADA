@@ -14,6 +14,7 @@ Natural Acoustic Diagnostics & Alerts (NADA) is an ambient ecology monitoring pl
   * **Biodenoising**: Clean noisy field recordings.
   * **Species Embedding (AVES)**: Extract ecological embeddings via AVES<sup>\[1]</sup>.
   * **NatureLM Inference (NatureLM-audio)**: Zero-shot frog call counting, species identification, and confidence scoring via NatureLM-audio<sup>\[2]</sup>.
+* **Chat Assistant Integration**: Interactive Natural Language Query powered by Google Gemini API. Farmers can ask questions in simple English and get practical, step-by-step advice about water quality, frog activity, pH testing, and farming best practices.
 * **Real-Time Alerts**:
 
   * Water quality status (Good/Warning/Critical) based on call-rate thresholds.
@@ -29,8 +30,9 @@ Natural Acoustic Diagnostics & Alerts (NADA) is an ambient ecology monitoring pl
 2. **Upload**: In the **Record Audio** tab, select your file (`.wav` or `.mp3`).
 3. **Analyze**: AI processing runs automatically—watch the progress indicator.
 4. **Dashboard**: View real-time water quality status, frog call rate, and species summary.
-5. **Alerts**: Configure thresholds and notification channels in **Alerts**. Receive banners, push notifications, or optional email/SMS.
-6. **Analytics**: Explore historical trends, species diversity, and environmental correlations.
+5. **Ask AI**: Switch to the Ask AI tab. Type simple questions about your field (e.g., "Why is my water bad?"). NADA connects to the Google Gemini API to deliver concise, actionable advice with follow-up prompts.
+6. **Alerts**: Configure thresholds and notification channels in **Alerts**. Receive banners, push notifications, or optional email/SMS.
+7. **Analytics**: Explore historical trends, species diversity, and environmental correlations.
 
 ---
 
